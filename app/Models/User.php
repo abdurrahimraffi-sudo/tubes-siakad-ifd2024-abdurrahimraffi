@@ -2,13 +2,16 @@
 
 namespace App\Models;
 
+// Tambahkan use HasRoles dari Spatie
+use Spatie\Permission\Traits\HasRoles;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
 class User extends Authenticatable
 {
-    use HasFactory, Notifiable;
+    // Gunakan HasRoles di sini
+    use HasFactory, Notifiable, HasRoles;
 
     protected $fillable = [
         'name',
