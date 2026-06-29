@@ -136,6 +136,22 @@ resources/views/
 - 30 Jadwal
 - KRS random untuk setiap mahasiswa
 
+## Screanshoot
+
+### Login
+![Login](screenshots/Login.png)
+
+### Admin
+![Dashboard Admin](screenshots/Admin.png)
+![A1](screenshots/a1.png)
+![A2](screenshots/a2.png)
+
+### Mahasiswa
+![Dashboard Mahasiswa](screenshots/Mahasiswa.png)
+![M1](screenshots/m1.png)
+![M2](screenshots/m2.png)
+![M3](screenshots/m3.png)
+
 ## Lisensi
 
 MIT
