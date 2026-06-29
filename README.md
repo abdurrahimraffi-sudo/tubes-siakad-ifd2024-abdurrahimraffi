@@ -2,6 +2,9 @@
 
 Sistem Informasi Akademik (SIAKAD) berbasis Laravel 12 + MySQL + Bootstrap 5 dengan desain modern, responsive, dan clean menggunakan tema biru-putih.
 
+## Demo Online 
+https://siakad-raffi.infinityfreeapp.com
+
 ## Fitur
 
 ### Admin
